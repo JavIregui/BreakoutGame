@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+    text-align: center;
+}
+
+canvas {
+    border: solid 5px darkgray;
+    margin-top: 20px;
+}
