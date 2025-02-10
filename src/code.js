@@ -221,7 +221,7 @@ function Draw(ctx)
     ctx.fillStyle = "white";
     ctx.font = "24px Comic Sans MS regular";
     ctx.textAlign = "end";
-    ctx.fillText("VIDAS : " + vidas, canvas.width-20, canvas.height-20);
+    ctx.fillText("BALLS : " + vidas, canvas.width-20, canvas.height-20);
 }
 
 function BallLost(ball)
