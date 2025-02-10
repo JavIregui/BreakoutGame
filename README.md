@@ -11,6 +11,13 @@ The game allows the player move from one side of the bottom of the screen to the
 
 - **Simplifaied** version of the **game** without any power-ups.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screen1.png" alt="screenshot 1" width="49%" style="margin-right: 1%;" />
+  <img src="Screen2.png" alt="screenshot 2" width="49%" />
+</p>
+
 ## Future Features
 
 At the moment, there are no plans to introduce any new features.
